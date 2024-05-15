@@ -2,4 +2,9 @@ první řádek
 druhý řádek
 Jsem řádek?
 **************
+<<<<<<< HEAD
 1478714
+=======
+
+Chello Mello
+>>>>>>> 0de05a8a8d8ecaae920ba7273257239133c37d2f
