@@ -1,2 +1,4 @@
 první řádek
 druhý řádek
+Jsem řádek?
+**************
